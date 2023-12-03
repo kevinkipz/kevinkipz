@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kevinkipz
-- 👀 I’m interested in IT & Cyber Security Defense
+- 👀 I’m interested in IT & CyberSecurity Defense
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on how to get start in a CyberSecurity rol
+- 💞️ I’m looking to collaborate on how to get start in a CyberSecurity role
 - 📫 How to reach me via Github
 
 <!---
